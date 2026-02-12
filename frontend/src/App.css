@@ -45,6 +45,9 @@ ul {
 
 .dropdown-btn {
   width: 100px;
+  text-align: left;
+  background: white;
+  border-radius: 8px;
 }
 
 .dropdown-outer {
@@ -57,4 +60,10 @@ ul {
   position: absolute;
   right: 0;
   padding-right: 16px;
+}
+
+.comment-input {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 16px;
 }
